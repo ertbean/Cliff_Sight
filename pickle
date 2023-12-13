@@ -1,0 +1,19 @@
+from turtle import *
+circle(40)
+left(90)
+up()
+forward(30)
+right(90)
+forward(38)
+right(90)
+down()
+forward(200)
+right(180)
+
+forward(30)
+
+
+circle(40)
+
+fillcolor("green")
+done()
