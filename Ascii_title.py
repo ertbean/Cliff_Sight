@@ -60,7 +60,7 @@ def demo(screen):
     effects = [
     Rain(screen, 120),
     Print(screen,
-              SpeechBubble("One fateful day the elves arrived. During their time on a small planet they dubbed second world they stole all sight from the inhabitance and suspended all Powerful Ones in time."),
+              SpeechBubble("One fateful day the elves arrived. During their time on a small planet they dubbed ELV2 they stole all sight from the inhabitance and suspended all Powerful Ones in time."),
               y=screen.height // 2 - 5,
               speed=1,
               transparent=False,
