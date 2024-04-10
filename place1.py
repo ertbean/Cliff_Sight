@@ -1,28 +1,4 @@
 from cave import cavemod
-from random import randint
-from asciimatics.effects import Print, Stars
-from asciimatics.particles import Explosion, StarFirework, DropScreen, Rain, ShootScreen
-from asciimatics.renderers import SpeechBubble, FigletText, Rainbow
-from asciimatics.scene import Scene
-from asciimatics.screen import Screen
-from asciimatics.exceptions import ResizeScreenError
-import sys
-from pygame import mixer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 def main():
         health = 10
