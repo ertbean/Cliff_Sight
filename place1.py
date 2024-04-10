@@ -13,9 +13,9 @@ def main():
         explore1 = 'n'
         no = "thats not a option"
         cave = 3
-        print('you wake up you see nothing, but you sense your sourandings you have no idea why')
-        print('so you dicide to these are the things you thought of')
-        print('')
+        print('you wake up confused')
+        print('you start to think of what to do')
+        print('these are the options you thought of. 1 open invontory. 2 look around for things. 3 try to rember what happend prier.4 scout out sourandings. ')
         option = input('press y to continue')
         while not option.lower()== 'y':
                 option = input('Press y to continue.')
